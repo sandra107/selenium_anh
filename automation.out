@@ -349,3 +349,57 @@
 2022-08-23 17:08:828 ERROR VerificationHelper:25 - element is not Displayed..
 2022-08-23 17:08:849 ERROR VerificationHelper:25 - element is not Displayed..
 2022-08-23 17:08:44 INFO  TestBase:143 - **************testLoginToApplicationFinished***************
+2022-09-01 19:09:297 INFO  TestBase:60 - Initialize Web driver: 1481594007
+2022-09-01 19:09:604 INFO  WaitHelper:19 - WaitHelper object created..
+2022-09-01 19:09:605 INFO  WaitHelper:29 - Implicit Wait has been set to: 120
+2022-09-01 19:09:637 INFO  WaitHelper:76 - waiting for page to load for : SECONDS seconds
+2022-09-01 19:09:645 INFO  WaitHelper:78 - page is loaded
+2022-09-01 19:09:915 INFO  TestBase:56 - *************testUsernameAndPassIsNotValid Strated ****************
+2022-09-01 19:09:172 INFO  WaitHelper:19 - WaitHelper object created..
+2022-09-01 19:09:207 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (77b5910513cb8f91c02784d2ce9fd542)] -> xpath: //div[@class='card-body']//img] for :200 seconds
+2022-09-01 19:09:302 INFO  WaitHelper:91 - element is visible now
+2022-09-01 19:09:303 INFO  TestBase:111 - Capturing ui navigation screen...
+2022-09-01 19:09:331 INFO  JavaScriptHelper:15 - JavaScriptHelper has been initialised
+2022-09-01 19:09:758 INFO  JavaScriptHelper:15 - JavaScriptHelper has been initialised
+2022-09-01 19:09:777 INFO  LoginPage:57 - entering user name...
+2022-09-01 19:09:923 INFO  LoginPage:63 - Entering password....
+2022-09-01 19:09:37 INFO  LoginPage:68 - Clicking on button login....
+2022-09-01 19:09:233 ERROR VerificationHelper:25 - element is not Displayed..
+2022-09-01 19:09:23 INFO  TestBase:143 - **************testUsernameAndPassIsNotValidFinished***************
+2022-09-01 19:09:411 INFO  TestBase:56 - *************testPasswordIsNotValid Strated ****************
+2022-09-01 19:09:250 INFO  WaitHelper:19 - WaitHelper object created..
+2022-09-01 19:09:280 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (77b5910513cb8f91c02784d2ce9fd542)] -> xpath: //div[@class='card-body']//img] for :200 seconds
+2022-09-01 19:09:327 INFO  WaitHelper:91 - element is visible now
+2022-09-01 19:09:327 INFO  TestBase:111 - Capturing ui navigation screen...
+2022-09-01 19:09:327 INFO  JavaScriptHelper:15 - JavaScriptHelper has been initialised
+2022-09-01 19:09:532 INFO  JavaScriptHelper:15 - JavaScriptHelper has been initialised
+2022-09-01 19:09:542 INFO  LoginPage:57 - entering user name...admin01
+2022-09-01 19:09:652 INFO  LoginPage:63 - Entering password....
+2022-09-01 19:09:759 INFO  LoginPage:68 - Clicking on button login....
+2022-09-01 19:09:33 ERROR VerificationHelper:25 - element is not Displayed..
+2022-09-01 19:09:86 INFO  TestBase:143 - **************testPasswordIsNotValidFinished***************
+2022-09-01 19:09:161 INFO  TestBase:56 - *************testUsernameIsNotValid Strated ****************
+2022-09-01 19:09:945 INFO  WaitHelper:19 - WaitHelper object created..
+2022-09-01 19:09:973 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (77b5910513cb8f91c02784d2ce9fd542)] -> xpath: //div[@class='card-body']//img] for :200 seconds
+2022-09-01 19:09:07 INFO  WaitHelper:91 - element is visible now
+2022-09-01 19:09:07 INFO  TestBase:111 - Capturing ui navigation screen...
+2022-09-01 19:09:07 INFO  JavaScriptHelper:15 - JavaScriptHelper has been initialised
+2022-09-01 19:09:554 INFO  JavaScriptHelper:15 - JavaScriptHelper has been initialised
+2022-09-01 19:09:610 INFO  LoginPage:57 - entering user name...
+2022-09-01 19:09:752 INFO  LoginPage:63 - Entering password....123456
+2022-09-01 19:09:860 INFO  LoginPage:68 - Clicking on button login....
+2022-09-01 19:09:986 ERROR VerificationHelper:25 - element is not Displayed..
+2022-09-01 19:09:66 INFO  TestBase:143 - **************testUsernameIsNotValidFinished***************
+2022-09-01 19:09:188 INFO  TestBase:56 - *************testLoginToApplication Strated ****************
+2022-09-01 19:09:844 INFO  WaitHelper:19 - WaitHelper object created..
+2022-09-01 19:09:867 INFO  WaitHelper:88 - waiting for :[[ChromeDriver: chrome on WINDOWS (77b5910513cb8f91c02784d2ce9fd542)] -> xpath: //div[@class='card-body']//img] for :200 seconds
+2022-09-01 19:09:923 INFO  WaitHelper:91 - element is visible now
+2022-09-01 19:09:923 INFO  TestBase:111 - Capturing ui navigation screen...
+2022-09-01 19:09:924 INFO  JavaScriptHelper:15 - JavaScriptHelper has been initialised
+2022-09-01 19:09:258 INFO  JavaScriptHelper:15 - JavaScriptHelper has been initialised
+2022-09-01 19:09:282 INFO  LoginPage:57 - entering user name...fff
+2022-09-01 19:09:376 INFO  LoginPage:63 - Entering password....4444444
+2022-09-01 19:09:503 INFO  LoginPage:68 - Clicking on button login....
+2022-09-01 19:09:621 ERROR VerificationHelper:25 - element is not Displayed..
+2022-09-01 19:09:649 ERROR VerificationHelper:25 - element is not Displayed..
+2022-09-01 19:09:630 INFO  TestBase:143 - **************testLoginToApplicationFinished***************
